@@ -37,3 +37,5 @@ These are the controls.
 
 `bench` is a CLI tool for generating test results as fast as possible. Change `GridCellEncoder2D` to `LocEncoder2D` in bench.cpp to switch between Grid Cells and Scalar Encoders.
 
+## Licsence
+AGPL v3
