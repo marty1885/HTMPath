@@ -4,8 +4,9 @@ A HTM Application learning to detct anomalies of a object's path.
 ## How to  build
 ```
 mkdir build
+cd build
 cmake ..
-make -j4
+make .. -j4
 ```
 
 ## Dependency
