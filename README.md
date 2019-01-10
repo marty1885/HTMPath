@@ -6,7 +6,7 @@ A HTM Application learning to detct anomalies of a object's path.
 mkdir build
 cd build
 cmake ..
-make .. -j4
+make -j4
 ```
 
 ## Dependency
